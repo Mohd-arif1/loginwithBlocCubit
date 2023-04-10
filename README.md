@@ -1,2 +1,3 @@
 # loginwithBlocCubit
-Example of state management with bloc and cubit and rest api  
+Example of state management with bloc and cubit and rest api call
+
